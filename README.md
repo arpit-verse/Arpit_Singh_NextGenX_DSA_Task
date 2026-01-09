@@ -61,3 +61,6 @@ Special emphasis has been placed on:
 
 ## Submission
 This repository link is submitted through the official Google Form as instructed.
+
+## Additional Documents
+- Resume is included under the `Resume/` directory for reference.
